@@ -11,12 +11,12 @@ public class KeyMappingMixin {
     @Overwrite
     public static void releaseAll() {
         Minecraft mc = Minecraft.getInstance();
-
         mc.options.keyUp.setDown(false);
         mc.options.keyLeft.setDown(false);
         mc.options.keyDown.setDown(false);
         mc.options.keyRight.setDown(false);
         mc.options.keyAttack.setDown(false);
         mc.options.keyUse.setDown(false);
+        mc.options.keyJump.setDown(false);
     }
 }
