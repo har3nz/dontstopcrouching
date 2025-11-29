@@ -3,9 +3,9 @@
 	"id": "dontstopcrouching",
 	"version": "${version}",
 	"name": "dontStopCrouching",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod allows you to crouch in guis!",
 	"authors": [
-		"Me!"
+		"har3nz"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
