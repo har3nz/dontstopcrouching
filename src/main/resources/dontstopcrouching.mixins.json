@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "net.har3nz.dontstopcrouching.mixin",
+  "compatibilityLevel": "JAVA_21",
+
+  "client": [
+    "KeyMappingMixin"
+  ],
+
+  "injectors": {
+    "defaultRequire": 1
+  },
+
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
